@@ -1,22 +1,50 @@
-body{
-    background-color: rgb(248, 251, 252);
-    font-family: Verdana, sans-serif;
-    font-size: 100%;
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: darkblue;
 }
-h1{
-    font-size: 200%;
-    color:rgb(32, 100, 0);
-    text-align: center;
+img.clear{ 	
+display: block;
+margin-left: auto;
+margin-right: auto;
+
 }
-h2{
-    font-size:150%;
-    color:rgb(216, 18, 18);
-    padding-left: 15px;
+.filtre{
+color:darkblue;
+font-size:20px;
 }
-a:link{
-    color:rgb(114, 114, 219);
-    text-decoration: underline;
+h2
+{
+text-align: center;
+color:darkblue;
+font-size: 35px;
 }
-span1{
-    font-family: Apple Chancery,cursive;
+h3 {
+  text-align: center;
+  font-size: 35px;
+  color: lightblue;
+}
+h4 {
+  font-size: 25px;
+}
+
+.indicProduit{
+font-size:20px;
+color: orange;
+}
+.indic50{
+font-size:20px;
+color: orange;
+}
+.indic90{
+font-size:20px;
+color: orange;
+}
+.indic95{
+font-size:20px;
+color: orange;
+}
+.reponseIndic{
+font-size:20px;
+color: grey;
 }
